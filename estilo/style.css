@@ -109,12 +109,12 @@ article#sobre h3 {
 
 article#sobre hr {
     display: block;
-    margin: 10px auto;
+    margin: 30px auto;
     border-color: rgba(255, 255, 255, 0.329);
     border-width: 1px;
     border-style: solid;
     border-radius: 5px;
-    width: 80%;
+    width: 90%;
 }
 
 article#sobre p {
